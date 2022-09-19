@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>resources/search.png</file>
+    <file>resources/signout.png</file>
+    <file>resources/settings.png</file>
+    <file>resources/packages.png</file>
+    <file>resources/more.png</file>
+    <file>resources/about.png</file>
+    <file>resources/help.png</file>
+    <file>resources/dictionary.png</file>
+    <file>resources/home.png</file>
+  </qresource>
+</RCC>
